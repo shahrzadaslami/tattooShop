@@ -3,33 +3,33 @@ $gradiant-fade: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5)
 
 @font-face {
     font-family: "TechnotypW02ExtraBold";
-    src: url("/fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.eot");
+    src: url("../fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.eot");
     /* IE9*/
-    src: url("/fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.eot?#iefix") format("embedded-opentype"),
+    src: url("../fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.eot?#iefix") format("embedded-opentype"),
         /* IE6-IE8 */
-        url("/fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.woff2") format("woff2"),
+        url("../fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.woff2") format("woff2"),
         /* chrome、firefox */
-        url("/fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.woff") format("woff"),
+        url("../fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.woff") format("woff"),
         /* chrome、firefox */
-        url("/fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.ttf") format("truetype"),
+        url("../fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.ttf") format("truetype"),
         /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-        url("/fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.svg#Bad Script Regular") format("svg");
+        url("../fonts/TechnotypW02ExtraBold/TechnotypW02ExtraBold.svg#Bad Script Regular") format("svg");
     /* iOS 4.1- */
 }
 
 @font-face {
     font-family: "AthelasW01Regular";
-    src: url("/fonts/AthelasW01Regular/AthelasW01Regular.eot");
+    src: url("../fonts/AthelasW01Regular/AthelasW01Regular.eot");
     /* IE9*/
-    src: url("/fonts/AthelasW01Regular/AthelasW01Regular.eot?#iefix") format("embedded-opentype"),
+    src: url("../fonts/AthelasW01Regular/AthelasW01Regular.eot?#iefix") format("embedded-opentype"),
         /* IE6-IE8 */
-        url("/fonts/AthelasW01Regular/AthelasW01Regular.woff2") format("woff2"),
+        url("../fonts/AthelasW01Regular/AthelasW01Regular.woff2") format("woff2"),
         /* chrome、firefox */
-        url("/fonts/AthelasW01Regular/AthelasW01Regular.woff") format("woff"),
+        url("../fonts/AthelasW01Regular/AthelasW01Regular.woff") format("woff"),
         /* chrome、firefox */
-        url("/fonts/AthelasW01Regular/AthelasW01Regular.ttf") format("truetype"),
+        url("../fonts/AthelasW01Regular/AthelasW01Regular.ttf") format("truetype"),
         /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-        url("/fonts/AthelasW01Regular/AthelasW01Regular.svg#Bad Script Regular") format("svg");
+        url("../fonts/AthelasW01Regular/AthelasW01Regular.svg#Bad Script Regular") format("svg");
     /* iOS 4.1- */
 }
 
